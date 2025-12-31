@@ -33,3 +33,8 @@ Complete
 
 ## Note
 This project was built using FlutterFlow. All screens, logic and data structures were designed and implemented by me.
+
+## App Overview
+
+![Solace App Flow](solace-app-flow-diagram.pdf)
+
